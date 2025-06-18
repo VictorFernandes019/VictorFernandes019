@@ -92,7 +92,6 @@ Me chamo Victor Fernandes, tenho 23 anos e atualmente faço bacharelado em siste
 />
 
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 
