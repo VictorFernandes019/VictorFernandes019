@@ -91,7 +91,7 @@ Me chamo Victor Fernandes, tenho 23 anos e atualmente faço bacharelado em siste
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
+<br>
 
 ### 📊 Estatísticas
 
