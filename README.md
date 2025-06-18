@@ -10,14 +10,14 @@ Me chamo Victor Fernandes, tenho 23 anos e atualmente faço bacharelado em siste
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/VictorFernandes019?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/VictorFernandes019?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/VictorFernandes019?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -49,8 +49,6 @@ Me chamo Victor Fernandes, tenho 23 anos e atualmente faço bacharelado em siste
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-/>
 <img 
     align="left" 
     alt="React"
@@ -67,7 +65,6 @@ Me chamo Victor Fernandes, tenho 23 anos e atualmente faço bacharelado em siste
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-/>
 <img 
     align="left" 
     alt="PHP" 
@@ -75,8 +72,6 @@ Me chamo Victor Fernandes, tenho 23 anos e atualmente faço bacharelado em siste
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-/>
 />
 <img 
     align="left" 
