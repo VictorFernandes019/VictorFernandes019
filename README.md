@@ -4,7 +4,7 @@
 Me chamo Victor Fernandes, tenho 23 anos e atualmente faço bacharelado em sistemas de Informação - UNASP
 
 <p align="left">
-    <
+</p>
     </a> 
     <a href="https://github.com/VictorFernandes019?tab=repositories&sort=stargazers">
         <img 
